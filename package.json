@@ -1,7 +1,7 @@
 {
   "name": "app-nuxt-vuetify2",
   "version": "1.0.0",
-  "description": "",
+  "description": "[UTM Project](https://bit.ly/utmproject)",
   "main": "index.js",
   "scripts": {
     "dev": "nuxt",
@@ -27,5 +27,13 @@
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^5.2.3",
     "jest": "^24.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saknarak/vue-nuxt-vutify2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saknarak/vue-nuxt-vutify2/issues"
+  },
+  "homepage": "https://github.com/saknarak/vue-nuxt-vutify2#readme"
 }
